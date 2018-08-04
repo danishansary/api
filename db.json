@@ -1,0 +1,6 @@
+{
+    "/public/api/auth/pre-authentication/v1":"/pre-authentication",
+	"/public/mobile-easy/notification/v1/otp/0885557777":"/get-otp",
+	"/public/mobile-easy/notification/v1/otp":"/verify-otp",
+	"/public/mobile-easy/users/v1/pin/update/?type=registration":"/registration-SCB"
+}
